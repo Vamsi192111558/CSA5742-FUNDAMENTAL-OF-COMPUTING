@@ -75,4 +75,7 @@ fabobannic
 ![fibobanacies](https://user-images.githubusercontent.com/112846448/215383377-759bd4e6-307a-440f-b64d-4c8f2ba270e4.jpg)
 
 odd number
-![ODD NUMBER](https://user-images.githubusercontent.com/112846448/215383429-d67f9d1a-0196-45b3-9f36-92f9d1a5e93e.jpg)
+![ODD NUMBER](https://user-images.githubusercontent.com/112846448/215383538-746163dc-0bf7-4e62-a070-365ed283e233.jpg)
+
+even number
+![even number](https://user-images.githubusercontent.com/112846448/215383607-8b06ddbd-dc3a-4840-93a7-453c8b1f8385.jpg)
