@@ -33,3 +33,6 @@ odd or odd number
 
 reversing the number
 ![reversing the number](https://user-images.githubusercontent.com/112846448/215381737-f7fca02f-0f41-4f1d-b2f4-319a707a036d.jpg)
+
+integer number printing
+![integer number printing](https://user-images.githubusercontent.com/112846448/215381888-168f9249-116f-4db8-ba62-15f145bb6b0c.jpg)
