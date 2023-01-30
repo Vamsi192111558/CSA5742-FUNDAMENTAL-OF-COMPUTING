@@ -62,3 +62,7 @@ square of odd number
 summing up...n
 ![summing up n](https://user-images.githubusercontent.com/112846448/215382808-3c189db8-81cf-43c2-b28e-37b656d1a05c.jpg)
 
+summing odd numbers
+![summing odd number](https://user-images.githubusercontent.com/112846448/215382910-d1e24ba0-91a0-4fc3-9867-339157eee2cd.jpg)
+
+
