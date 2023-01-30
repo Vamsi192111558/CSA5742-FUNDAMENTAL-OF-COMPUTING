@@ -6,3 +6,6 @@ cube
 ![CUBE](https://user-images.githubusercontent.com/112846448/215379816-0a1fbf0b-368c-4748-9fb6-34ce4927f88a.jpg)
 area of square
 ![CUBE](https://user-images.githubusercontent.com/112846448/215379952-29f0d99f-ac61-4dca-a687-b115793de024.jpg)
+
+swapping
+![swapping integers](https://user-images.githubusercontent.com/112846448/215380989-b6a04b8d-48d8-4f67-9aa5-597add2708a1.jpg)
