@@ -83,5 +83,8 @@ even number
 number series
 ![NUMBER SERIES](https://user-images.githubusercontent.com/112846448/215383682-f517f7ed-046d-4c82-b972-dd8a3a36d83f.jpg)
 
-factorial
-![FACTORIAL](https://user-images.githubusercontent.com/112846448/215383748-b011c868-2dad-4240-a0d9-b5724f40e089.jpg)
+palindrome
+![PALINDROME](https://user-images.githubusercontent.com/112846448/215383814-9ccf0dd4-5d51-49b8-bb55-6fb330f090c6.jpg)
+
+natural number
+![natural number](https://user-images.githubusercontent.com/112846448/215383863-6a105cd9-8058-4d7d-9f95-21bf552f3e01.jpg)
