@@ -68,3 +68,5 @@ summing odd numbers
 summing even number
 ![summing even number](https://user-images.githubusercontent.com/112846448/215383257-00986416-9a4b-444d-876b-d80c4a975c72.jpg)
 
+summing serirs
+![summing series](https://user-images.githubusercontent.com/112846448/215383304-391b3ab2-52f5-4764-a623-e9e57531eab5.jpg)
