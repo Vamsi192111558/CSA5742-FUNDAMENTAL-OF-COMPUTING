@@ -50,3 +50,7 @@ printing 14
 pp
 ![pp](https://user-images.githubusercontent.com/112846448/215382355-a2e01452-af8e-4aaf-afeb-541cbe889ca3.jpg)
 
+factorial
+![factorial 11](https://user-images.githubusercontent.com/112846448/215382456-871f87aa-24a6-4cc9-8729-61d03b1b0fb0.jpg)
+
+
