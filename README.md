@@ -24,3 +24,6 @@ binary to decimal
 
 octa to decimal
 ![octa to decimal](https://user-images.githubusercontent.com/112846448/215381479-c59f7265-aa65-4557-84a2-c2066437953b.jpg)
+
+hexa to decimal
+![hexa to decimal](https://user-images.githubusercontent.com/112846448/215381558-c259f44d-11d9-4d96-993d-d792c3a35558.jpg)
