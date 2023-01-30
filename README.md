@@ -65,4 +65,6 @@ summing up...n
 summing odd numbers
 ![summing odd number](https://user-images.githubusercontent.com/112846448/215382910-d1e24ba0-91a0-4fc3-9867-339157eee2cd.jpg)
 
+summing even number
+![summing even number](https://user-images.githubusercontent.com/112846448/215383257-00986416-9a4b-444d-876b-d80c4a975c72.jpg)
 
