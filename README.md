@@ -44,3 +44,5 @@ integer number printing
 armsstrong
 ![arms strong](https://user-images.githubusercontent.com/112846448/215382193-1e8c7cc6-7153-4803-ad14-0b1f83cdab35.jpg)
 
+printing 14
+![printing 14](https://user-images.githubusercontent.com/112846448/215382246-b7a3dc7c-cbc8-4f88-99ea-737d70eb0685.jpg)
