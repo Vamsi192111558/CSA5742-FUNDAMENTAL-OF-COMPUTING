@@ -88,3 +88,6 @@ palindrome
 
 natural number
 ![natural number](https://user-images.githubusercontent.com/112846448/215383863-6a105cd9-8058-4d7d-9f95-21bf552f3e01.jpg)
+
+arthematic operation
+![ARTHMATIC OPERATION](https://user-images.githubusercontent.com/112846448/215383979-00979ac7-cf5a-408c-a08d-b2da81259fa1.jpg)
