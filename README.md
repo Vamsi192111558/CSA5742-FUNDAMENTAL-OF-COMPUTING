@@ -53,4 +53,6 @@ pp
 factorial
 ![factorial 11](https://user-images.githubusercontent.com/112846448/215382456-871f87aa-24a6-4cc9-8729-61d03b1b0fb0.jpg)
 
+cube of n numbers
+![cube of n numbers](https://user-images.githubusercontent.com/112846448/215382527-388f9dbe-1769-4f18-b894-9c8e86627de2.jpg)
 
