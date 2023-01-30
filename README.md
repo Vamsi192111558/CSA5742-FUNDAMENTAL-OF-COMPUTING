@@ -70,3 +70,6 @@ summing even number
 
 summing serirs
 ![summing series](https://user-images.githubusercontent.com/112846448/215383304-391b3ab2-52f5-4764-a623-e9e57531eab5.jpg)
+
+fabobannic
+![fibobanacies](https://user-images.githubusercontent.com/112846448/215383377-759bd4e6-307a-440f-b64d-4c8f2ba270e4.jpg)
