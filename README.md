@@ -15,3 +15,6 @@ print digits
 
 decimal to hexa
 ![decimal to hexa](https://user-images.githubusercontent.com/112846448/215381236-55a5709c-3830-438a-ae86-47fbacbd3550.jpg)
+
+decimal to binary
+![decimal to binary](https://user-images.githubusercontent.com/112846448/215381329-812d79db-944f-44d8-a915-1f43caef06d0.jpg)
