@@ -73,3 +73,6 @@ summing serirs
 
 fabobannic
 ![fibobanacies](https://user-images.githubusercontent.com/112846448/215383377-759bd4e6-307a-440f-b64d-4c8f2ba270e4.jpg)
+
+odd number
+![ODD NUMBER](https://user-images.githubusercontent.com/112846448/215383429-d67f9d1a-0196-45b3-9f36-92f9d1a5e93e.jpg)
