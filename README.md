@@ -27,3 +27,6 @@ octa to decimal
 
 hexa to decimal
 ![hexa to decimal](https://user-images.githubusercontent.com/112846448/215381558-c259f44d-11d9-4d96-993d-d792c3a35558.jpg)
+
+positive to negetive
+![positive to negetive](https://user-images.githubusercontent.com/112846448/215381636-590f8dbf-5d5d-43b4-b332-f7cd3e76c533.jpg)
