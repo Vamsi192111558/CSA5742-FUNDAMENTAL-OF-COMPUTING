@@ -79,3 +79,6 @@ odd number
 
 even number
 ![even number](https://user-images.githubusercontent.com/112846448/215383607-8b06ddbd-dc3a-4840-93a7-453c8b1f8385.jpg)
+
+number series
+![NUMBER SERIES](https://user-images.githubusercontent.com/112846448/215383682-f517f7ed-046d-4c82-b972-dd8a3a36d83f.jpg)
