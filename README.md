@@ -56,3 +56,5 @@ factorial
 cube of n numbers
 ![cube of n numbers](https://user-images.githubusercontent.com/112846448/215382527-388f9dbe-1769-4f18-b894-9c8e86627de2.jpg)
 
+square of odd number
+![square of odd numbers](https://user-images.githubusercontent.com/112846448/215382723-0053ec50-266f-4416-9164-b0eb576341e4.jpg)
