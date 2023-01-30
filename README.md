@@ -82,3 +82,6 @@ even number
 
 number series
 ![NUMBER SERIES](https://user-images.githubusercontent.com/112846448/215383682-f517f7ed-046d-4c82-b972-dd8a3a36d83f.jpg)
+
+factorial
+![FACTORIAL](https://user-images.githubusercontent.com/112846448/215383748-b011c868-2dad-4240-a0d9-b5724f40e089.jpg)
