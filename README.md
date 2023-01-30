@@ -45,4 +45,8 @@ armsstrong
 ![arms strong](https://user-images.githubusercontent.com/112846448/215382193-1e8c7cc6-7153-4803-ad14-0b1f83cdab35.jpg)
 
 printing 14
-![printing 14](https://user-images.githubusercontent.com/112846448/215382246-b7a3dc7c-cbc8-4f88-99ea-737d70eb0685.jpg)
+![printing 14](https://user-images.githubusercontent.com/112846448/215382299-71bedcef-a300-47b6-ad62-6d8e92606861.jpg)
+
+pp
+![pp](https://user-images.githubusercontent.com/112846448/215382355-a2e01452-af8e-4aaf-afeb-541cbe889ca3.jpg)
+
