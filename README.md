@@ -40,3 +40,7 @@ average n number
 
 integer number printing
 ![integer number printing](https://user-images.githubusercontent.com/112846448/215381888-168f9249-116f-4db8-ba62-15f145bb6b0c.jpg)
+
+armsstrong
+![arms strong](https://user-images.githubusercontent.com/112846448/215382193-1e8c7cc6-7153-4803-ad14-0b1f83cdab35.jpg)
+
