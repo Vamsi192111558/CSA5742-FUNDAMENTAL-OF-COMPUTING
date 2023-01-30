@@ -12,3 +12,6 @@ swapping
 
 print digits
 ![print digits](https://user-images.githubusercontent.com/112846448/215381089-3ec4752e-3378-4c81-af84-b7036112acd2.jpg)
+
+decimal to hexa
+![decimal to hexa](https://user-images.githubusercontent.com/112846448/215381236-55a5709c-3830-438a-ae86-47fbacbd3550.jpg)
