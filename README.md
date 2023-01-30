@@ -21,3 +21,6 @@ decimal to binary
 
 binary to decimal
 ![d](https://user-images.githubusercontent.com/112846448/215381413-8ec3ce98-5c2e-4a7e-915a-8fdc346c1007.jpg)
+
+octa to decimal
+![octa to decimal](https://user-images.githubusercontent.com/112846448/215381479-c59f7265-aa65-4557-84a2-c2066437953b.jpg)
