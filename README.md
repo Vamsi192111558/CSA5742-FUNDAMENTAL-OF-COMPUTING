@@ -9,3 +9,6 @@ area of square
 
 swapping
 ![swapping integers](https://user-images.githubusercontent.com/112846448/215380989-b6a04b8d-48d8-4f67-9aa5-597add2708a1.jpg)
+
+print digits
+![print digits](https://user-images.githubusercontent.com/112846448/215381089-3ec4752e-3378-4c81-af84-b7036112acd2.jpg)
