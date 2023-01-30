@@ -58,3 +58,7 @@ cube of n numbers
 
 square of odd number
 ![square of odd numbers](https://user-images.githubusercontent.com/112846448/215382723-0053ec50-266f-4416-9164-b0eb576341e4.jpg)
+
+summing up...n
+![summing up n](https://user-images.githubusercontent.com/112846448/215382808-3c189db8-81cf-43c2-b28e-37b656d1a05c.jpg)
+
