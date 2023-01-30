@@ -91,3 +91,6 @@ natural number
 
 arthematic operation
 ![ARTHMATIC OPERATION](https://user-images.githubusercontent.com/112846448/215383979-00979ac7-cf5a-408c-a08d-b2da81259fa1.jpg)
+
+marks
+![MARKS](https://user-images.githubusercontent.com/112846448/215384069-c3017edd-1327-43b7-aa36-8fc46da2d636.jpg)
