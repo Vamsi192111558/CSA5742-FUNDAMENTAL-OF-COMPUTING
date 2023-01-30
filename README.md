@@ -18,3 +18,6 @@ decimal to hexa
 
 decimal to binary
 ![decimal to binary](https://user-images.githubusercontent.com/112846448/215381329-812d79db-944f-44d8-a915-1f43caef06d0.jpg)
+
+binary to decimal
+![d](https://user-images.githubusercontent.com/112846448/215381413-8ec3ce98-5c2e-4a7e-915a-8fdc346c1007.jpg)
